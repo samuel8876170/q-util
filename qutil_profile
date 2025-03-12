@@ -1,0 +1,2 @@
+export QUTIL="$(pwd)/src"
+export QLIB="$(pwd)/src"
