@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!src/
+!src/**/*
+!qutil_profile
+!LICENSE
+!README.md
+!.gitignore
